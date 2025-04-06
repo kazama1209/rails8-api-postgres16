@@ -1,4 +1,4 @@
-# rails8-api-with-postgres16
+# rails8-api-postgres16
 
 - Rails 8.0.2（API Mode）
 - Ruby3.4.2
