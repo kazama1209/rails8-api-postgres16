@@ -8,7 +8,7 @@
 
 ```
 $ docker compose build
-$ docker compose run web bundle exec rails db:prepare
+$ docker compose run --rm api bundle exec rails db:prepare
 $ docker compose up
 
 $ curl http://localhost:3000/api/v1/hello_world
